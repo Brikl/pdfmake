@@ -97,20 +97,20 @@ module.exports = {
 		]
 	},
 	optimization: {
-		minimizer: [
-			new UglifyJsPlugin({
-				include: /\.min\.js$/,
-				sourceMap: true,
-				uglifyOptions: {
-					compress: {
-						drop_console: true
-					},
-					mangle: {
-						reserved: ['HeadTable', 'NameTable', 'CmapTable', 'HheaTable', 'MaxpTable', 'HmtxTable', 'PostTable', 'OS2Table', 'LocaTable', 'GlyfTable']
-					}
-				}
-			})
-		]
+		// minimizer: [
+		// 	new UglifyJsPlugin({
+		// 		include: /\.min\.js$/,
+		// 		sourceMap: true,
+		// 		uglifyOptions: {
+		// 			compress: {
+		// 				drop_console: true
+		// 			},
+		// 			mangle: {
+		// 				reserved: ['HeadTable', 'NameTable', 'CmapTable', 'HheaTable', 'MaxpTable', 'HmtxTable', 'PostTable', 'OS2Table', 'LocaTable', 'GlyfTable']
+		// 			}
+		// 		}
+		// 	})
+		// ]
 	},
 	plugins: [
 		new StringReplacePlugin(),
