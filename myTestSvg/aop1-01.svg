@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 21.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 262 205" style="enable-background:new 0 0 262 205;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;}
+	.st1{fill:url(#New_Pattern_Swatch_1);}
+</style>
+<pattern  width="1024" height="1024" patternUnits="userSpaceOnUse" id="New_Pattern_Swatch_1" viewBox="1 -1025 1024 1024" style="overflow:visible;">
+	<g>
+		<rect x="1" y="-1025" class="st0" width="1024" height="1024"/>
+		
+			<image style="overflow:visible;" width="1024" height="1024" xlink:href="UV_Grid_Sm-a4a234e14a23839ae507aa420fd5fcf2.jpg"  transform="matrix(1 0 0 1 1 -1025)">
+		</image>
+	</g>
+</pattern>
+<g>
+	<rect x="0.5" y="0.5" class="st1" width="211" height="150"/>
+	<path d="M211,1v149H1V1H211 M212,0H0v151h212V0L212,0z"/>
+</g>
+</svg>
